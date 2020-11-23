@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606140515933">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606141118891">
   <folder name="css">
     <file name="site_global.css" crc="4054956549"/>
-    <file name="master_______-a.css" crc="423644868" ref="index"/>
-    <file name="index.css" crc="3817963096" ref="index"/>
+    <file name="master_______-a.css" crc="3790345357" ref="index"/>
+    <file name="index.css" crc="3931592377" ref="index"/>
     <file name="iefonts_index.css" crc="42022491" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -34,26 +34,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="__6.gif" crc="3982784114" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="инста1.png" crc="4000573925" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="__7.gif" crc="4104295907" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="вкон1.png" crc="500692161" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="opti.gif" crc="3984356425" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="__12.gif" crc="3759039202" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="opti.gif" crc="3984356425" seo="true" ref="index">
+    <file name="oinst.gif" crc="179400527" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4125121563" seo="true" mt="1606140507338" redirect="true"/>
+  <file name="index.html" crc="3917172411" seo="true" mt="1606141117809" redirect="true"/>
 </manifest>
