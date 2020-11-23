@@ -11,5 +11,8 @@
     <image:image>
       <image:loc>http://xanata.tk/images/%D1%82%D0%B8%D0%BA%D1%82%D0%BE%D0%BA.gif</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://xanata.tk/images/source.gif</image:loc>
+    </image:image>
   </url>
 </urlset>
