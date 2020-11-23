@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606136896860">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606137233016">
   <folder name="css">
     <file name="site_global.css" crc="4054956549"/>
     <file name="master_______-a.css" crc="48642093" ref="index"/>
-    <file name="index.css" crc="3926142712" ref="index"/>
+    <file name="index.css" crc="4196045981" ref="index"/>
     <file name="iefonts_index.css" crc="42022491" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -57,5 +57,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="278416476" seo="true" mt="1606136868449" redirect="true"/>
+  <file name="index.html" crc="4172547112" seo="true" mt="1606137183301" redirect="true"/>
 </manifest>
