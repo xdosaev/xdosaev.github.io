@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606133542902">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606136331766">
   <folder name="css">
-    <file name="site_global.css" crc="3908540299"/>
-    <file name="master_______-a.css" crc="67323847" ref="index"/>
-    <file name="index.css" crc="3931592377" ref="index"/>
+    <file name="site_global.css" crc="4054956549"/>
+    <file name="master_______-a.css" crc="4171859998" ref="index"/>
+    <file name="index.css" crc="4074661037" ref="index"/>
     <file name="iefonts_index.css" crc="42022491" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -48,6 +48,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="тикток.gif" crc="135725732" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="505505545" seo="true" mt="1606133199401" redirect="true"/>
+  <file name="index.html" crc="3807124118" seo="true" mt="1606136294533" redirect="true"/>
 </manifest>
