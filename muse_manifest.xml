@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606139207184">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606139544766">
   <folder name="css">
     <file name="site_global.css" crc="4054956549"/>
     <file name="master_______-a.css" crc="48642093" ref="index"/>
-    <file name="index.css" crc="477733362" ref="index"/>
+    <file name="index.css" crc="3959548888" ref="index"/>
     <file name="iefonts_index.css" crc="42022491" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -68,6 +68,9 @@
     <file name="__10.gif" crc="380849751" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="ezgif-3-bb5a0da15c11.gif" crc="3818913133" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4280712065" seo="true" mt="1606139195774" redirect="true"/>
+  <file name="index.html" crc="3764133216" seo="true" mt="1606139538386" redirect="true"/>
 </manifest>
