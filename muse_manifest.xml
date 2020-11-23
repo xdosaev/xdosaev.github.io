@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606136637100">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606136896860">
   <folder name="css">
     <file name="site_global.css" crc="4054956549"/>
     <file name="master_______-a.css" crc="48642093" ref="index"/>
-    <file name="index.css" crc="4198407503" ref="index"/>
+    <file name="index.css" crc="3926142712" ref="index"/>
     <file name="iefonts_index.css" crc="42022491" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -45,7 +45,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="__7.gif" crc="4104295907" ref="index">
+    <file name="__7.gif" crc="4104295907" ref="index" seo="true">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="вкон1.png" crc="500692161" ref="index">
@@ -56,5 +57,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="429454369" seo="true" mt="1606136626092" redirect="true"/>
+  <file name="index.html" crc="278416476" seo="true" mt="1606136868449" redirect="true"/>
 </manifest>
