@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606234949948">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606235488483">
   <folder name="css">
     <file name="site_global.css" crc="202496478"/>
     <file name="master_______-a.css" crc="350284555" ref="index:магазин"/>
-    <file name="index.css" crc="241440588" ref="index"/>
+    <file name="index.css" crc="450323326" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="nomq_preview_master_______-a.css" crc="301573133" ref="index:магазин"/>
-    <file name="nomq_index.css" crc="4159832202" ref="index"/>
-    <file name="_______.css" crc="3813960866" ref="магазин"/>
-    <file name="nomq________.css" crc="454209800" ref="магазин"/>
+    <file name="nomq_index.css" crc="175805789" ref="index"/>
+    <file name="_______.css" crc="4135361471" ref="магазин"/>
+    <file name="nomq________.css" crc="3799101487" ref="магазин"/>
     <file name="iefonts________.css" crc="3824530138" ref="магазин"/>
   </folder>
   <folder name="scripts">
@@ -181,6 +181,6 @@
       <caption webpage="магазин" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3953633449" seo="true" mt="1606233724751" redirect="true"/>
-  <file name="магазин.html" crc="288375930" seo="true" mt="1606234924652" redirect="true"/>
+  <file name="index.html" crc="494165080" seo="true" mt="1606235297546" redirect="true"/>
+  <file name="магазин.html" crc="55330223" seo="true" mt="1606235473843" redirect="true"/>
 </manifest>
