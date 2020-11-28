@@ -8,8 +8,7 @@ html,body{
     height: 100%;
     font-family: Arial, Helvetica, sans-serif;
 }
-.wrapper{
-}
+
 
 .container{
     max-width: 1180px;
@@ -59,8 +58,7 @@ html,body{
     display: none;
 }
 
-.header__menu {
-}
+
 
 .header__list {
     display: flex;
@@ -186,13 +184,16 @@ html,body{
 /* ---- particles.js container ---- */
 
 .seti{
+    flex: 0 0 70px;
+    overflow: hidden;
+    position: relative;
+    z-index: 3;
     margin: auto;
     display: flex;
-    max-width: 1000px;
+    max-width: 600px;
     justify-content: space-between;
 }
-.setka{    
-}
+
 .obod{
     position: relative;
 }
