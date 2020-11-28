@@ -172,6 +172,9 @@ html,body{
 .container__text p{
     margin: 0 0 20px 0;
 }
+.container__text span{
+    color: green;
+}
 @media (max-width:767px){
     .content{
         padding: 60px 0 0 0;
