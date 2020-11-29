@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606657302981">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606660162205">
   <folder name="css">
     <file name="site_global.css" crc="202496478"/>
     <file name="master_______-a.css" crc="4112735012" ref="index:магазин:корзина"/>
     <file name="nomq_preview_master_______-a.css" crc="301573133" ref="index:магазин:корзина"/>
-    <file name="index.css" crc="4140544852" ref="index"/>
-    <file name="nomq_index.css" crc="456475712" ref="index"/>
+    <file name="index.css" crc="3803100654" ref="index"/>
+    <file name="nomq_index.css" crc="425711292" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="_______.css" crc="152240155" ref="магазин"/>
-    <file name="nomq________.css" crc="353865686" ref="магазин"/>
+    <file name="_______.css" crc="4283398074" ref="магазин"/>
+    <file name="nomq________.css" crc="4156247316" ref="магазин"/>
     <file name="iefonts________.css" crc="3824530138" ref="магазин"/>
-    <file name="_______1.css" crc="3930994190" ref="корзина"/>
+    <file name="_______1.css" crc="486698278" ref="корзина"/>
     <file name="nomq________1.css" crc="3929449236" ref="корзина"/>
   </folder>
   <folder name="scripts">
@@ -24,7 +24,6 @@
   </folder>
   <folder name="images">
     <file name="шаблон-a-favicon.ico" crc="439592789" ref="index"/>
-    <file name="leather-texture-07-page-fr.png" crc="54167502" ref="index:магазин:корзина"/>
     <file name="maxresdefault.jpg" crc="3989581147" ref="index"/>
     <file name="otic.gif" crc="31920982" ref="index">
       <caption webpage="index" alt=""/>
@@ -87,8 +86,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:магазин:корзина"/>
+    <file name="уау-page-fr.png" crc="277428329" ref="index:магазин:корзина"/>
   </folder>
-  <file name="index.html" crc="3937293975" seo="true" mt="1606657260748" redirect="true"/>
-  <file name="магазин.html" crc="116802933" seo="true" mt="1606657128154" redirect="true"/>
-  <file name="корзина.html" crc="34423268" seo="true" mt="1606657128154" redirect="true"/>
+  <file name="index.html" crc="4003633984" seo="true" mt="1606660153158" redirect="true"/>
+  <file name="магазин.html" crc="3917754667" seo="true" mt="1606660153158" redirect="true"/>
+  <file name="корзина.html" crc="434735102" seo="true" mt="1606660153158" redirect="true"/>
 </manifest>
