@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606830836034">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606832757375">
   <folder name="css">
-    <file name="site_global.css" crc="323056290"/>
-    <file name="master_______-a.css" crc="388370216" ref="index"/>
-    <file name="nomq_preview_master_______-a.css" crc="262613549" ref="index"/>
-    <file name="index.css" crc="357488576" ref="index"/>
-    <file name="nomq_index.css" crc="4073180233" ref="index"/>
+    <file name="site_global.css" crc="258144085"/>
+    <file name="master_______-a.css" crc="4233526310" ref="index"/>
+    <file name="nomq_preview_master_______-a.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="4206367130" ref="index"/>
+    <file name="nomq_index.css" crc="4081044860" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -100,7 +100,7 @@
     <file name="безымянный-1_poster_u9047.png" crc="3951585912" ref="index"/>
     <file name="безымянный-ш.svg" crc="207732511" ref="index"/>
     <file name="безымянный-ш_poster_u9055.png" crc="3849591509" ref="index"/>
-    <file name="уау1-page-fr.png" crc="424223754" ref="index"/>
+    <file name="уау1-page-fr.png" crc="165313119" ref="index"/>
   </folder>
-  <file name="index.html" crc="3760291324" seo="true" mt="1606829671916" redirect="true"/>
+  <file name="index.html" crc="418341108" seo="true" mt="1606832710410" redirect="true"/>
 </manifest>
