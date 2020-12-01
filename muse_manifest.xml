@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606836156459">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606837903331">
   <folder name="css">
     <file name="site_global.css" crc="258144085"/>
-    <file name="master_______-a.css" crc="3804806294" ref="index"/>
+    <file name="master_______-a.css" crc="4109996759" ref="index"/>
     <file name="nomq_preview_master_______-a.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="4206367130" ref="index"/>
-    <file name="nomq_index.css" crc="4081044860" ref="index"/>
+    <file name="index.css" crc="4247687484" ref="index"/>
+    <file name="nomq_index.css" crc="346931448" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -97,16 +97,16 @@
       <caption webpage="без-имени-2" alt=""/>
     </file>
     <file name="уау1-page-fr.png" crc="165313119" ref="index"/>
-    <file name="глаз.png" crc="3823121231" ref="index">
+    <file name="глаз1.png" crc="4069905989" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="глаз1.png" crc="4129201039" ref="index">
+    <file name="глаз0.png" crc="4023807904" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4166214682" seo="true" mt="1606836155257" redirect="true"/>
+  <file name="index.html" crc="4093418138" seo="true" mt="1606837893041" redirect="true"/>
 </manifest>
