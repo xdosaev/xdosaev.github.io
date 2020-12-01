@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606838591083">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606839074584">
   <folder name="css">
     <file name="site_global.css" crc="258144085"/>
     <file name="master_______-a.css" crc="4087977824" ref="index"/>
     <file name="nomq_preview_master_______-a.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="3765239572" ref="index"/>
+    <file name="index.css" crc="4003559799" ref="index"/>
     <file name="nomq_index.css" crc="346931448" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
@@ -108,5 +108,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3999339664" seo="true" mt="1606838587050" redirect="true"/>
+  <file name="index.html" crc="361140240" seo="true" mt="1606839066527" redirect="true"/>
 </manifest>
