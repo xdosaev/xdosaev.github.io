@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606833635624">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1606834120670">
   <folder name="css">
     <file name="site_global.css" crc="258144085"/>
-    <file name="master_______-a.css" crc="3950930507" ref="index"/>
+    <file name="master_______-a.css" crc="168393603" ref="index"/>
     <file name="nomq_preview_master_______-a.css" crc="3824530138" ref="index"/>
     <file name="index.css" crc="4206367130" ref="index"/>
     <file name="nomq_index.css" crc="4081044860" ref="index"/>
@@ -102,5 +102,5 @@
     <file name="безымянный-ш_poster_u9055.png" crc="3849591509" ref="index"/>
     <file name="уау1-page-fr.png" crc="165313119" ref="index"/>
   </folder>
-  <file name="index.html" crc="4035303745" seo="true" mt="1606833620640" redirect="true"/>
+  <file name="index.html" crc="182923812" seo="true" mt="1606834100238" redirect="true"/>
 </manifest>
