@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1607008762777">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1607017380098">
   <folder name="css">
-    <file name="site_global.css" crc="323056290"/>
-    <file name="master_______-a.css" crc="4022783635" ref="index:bastau"/>
-    <file name="nomq_preview_master_______-a.css" crc="424289055" ref="index:bastau"/>
-    <file name="index.css" crc="429826876" ref="index"/>
-    <file name="nomq_index.css" crc="28649733" ref="index"/>
+    <file name="site_global.css" crc="258144085"/>
+    <file name="master_______-a.css" crc="3962749375" ref="index:bastau"/>
+    <file name="nomq_preview_master_______-a.css" crc="3887359879" ref="index:bastau"/>
+    <file name="index.css" crc="3812758167" ref="index"/>
+    <file name="nomq_index.css" crc="3800248335" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="bastau.css" crc="3809349347" ref="bastau"/>
-    <file name="nomq_bastau.css" crc="222233178" ref="bastau"/>
+    <file name="bastau.css" crc="3824360406" ref="bastau"/>
+    <file name="nomq_bastau.css" crc="345902641" ref="bastau"/>
     <file name="iefonts_bastau.css" crc="3824530138" ref="bastau"/>
   </folder>
   <folder name="scripts">
@@ -77,26 +77,26 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
     </file>
     <file name="tt.png" crc="225486970" seo="true" ref="index:bastau">
       <caption webpage="index" alt=""/>
@@ -104,26 +104,26 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
     </file>
     <file name="yt.png" crc="4259320456" seo="true" ref="index:bastau">
       <caption webpage="index" alt=""/>
@@ -131,26 +131,26 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
     </file>
     <file name="vk.png" crc="3889689648" seo="true" ref="index:bastau">
       <caption webpage="index" alt=""/>
@@ -158,26 +158,26 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
     </file>
     <file name="уау1-page-fr.png" crc="4034347517" ref="index:bastau"/>
     <file name="глаз1.png" crc="4123335418" ref="index">
@@ -229,6 +229,6 @@
       <caption webpage="бастау" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4194539560" seo="true" mt="1607008755180" redirect="true"/>
-  <file name="bastau.html" crc="3814140689" seo="true" mt="1607008755182" redirect="true"/>
+  <file name="index.html" crc="394892012" seo="true" mt="1607017340892" redirect="true"/>
+  <file name="bastau.html" crc="458507152" seo="true" mt="1607017340892" redirect="true"/>
 </manifest>
