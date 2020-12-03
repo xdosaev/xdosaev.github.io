@@ -1,32 +1,30 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1607005667107">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1607008663867">
   <folder name="css">
     <file name="site_global.css" crc="323056290"/>
-    <file name="master_______-a.css" crc="4022783635" ref="index:бастау:предметы"/>
-    <file name="nomq_preview_master_______-a.css" crc="424289055" ref="index:бастау:предметы"/>
+    <file name="master_______-a.css" crc="4022783635" ref="index:бастау"/>
+    <file name="nomq_preview_master_______-a.css" crc="424289055" ref="index:бастау"/>
     <file name="index.css" crc="429826876" ref="index"/>
     <file name="nomq_index.css" crc="28649733" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="______.css" crc="3809349347" ref="бастау"/>
     <file name="nomq_______.css" crc="222233178" ref="бастау"/>
     <file name="iefonts_______.css" crc="3824530138" ref="бастау"/>
-    <file name="________.css" crc="497917471" ref="предметы"/>
-    <file name="nomq_________.css" crc="4104859181" ref="предметы"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:предметы:бастау"/>
-    <file name="museutils.js" crc="3803043152" ref="index:предметы:бастау"/>
-    <file name="whatinput.js" crc="86476730" ref="index:предметы:бастау"/>
-    <file name="museconfig.js" crc="380897831" ref="index:предметы:бастау"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:бастау"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:предметы:бастау"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:предметы:бастау"/>
-    <file name="require.js" crc="4157109226" ref="index:предметы:бастау"/>
-    <file name="webpro.js" crc="242022427" ref="index:предметы:бастау"/>
-    <file name="musewpdisclosure.js" crc="119288625" ref="index:предметы:бастау"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:бастау"/>
+    <file name="museutils.js" crc="3803043152" ref="index:бастау"/>
+    <file name="whatinput.js" crc="86476730" ref="index:бастау"/>
+    <file name="museconfig.js" crc="380897831" ref="index:бастау"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:бастау"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:бастау"/>
+    <file name="require.js" crc="4157109226" ref="index:бастау"/>
+    <file name="webpro.js" crc="242022427" ref="index:бастау"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:бастау"/>
   </folder>
   <folder name="images">
-    <file name="шаблон-a-favicon.ico" crc="439592789" ref="index:бастау"/>
-    <file name="black-texture_1205-327.jpg" crc="73310299" ref="index:бастау">
+    <file name="шаблон-a-favicon.ico" crc="439592789" ref="index"/>
+    <file name="black-texture_1205-327.jpg" crc="73310299" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -48,8 +46,8 @@
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:предметы:бастау"/>
-    <file name="ава.png" crc="363387308" ref="index:бастау">
+    <file name="blank.gif" crc="4208392903" ref="index:бастау"/>
+    <file name="ава.png" crc="363387308" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -61,7 +59,7 @@
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
     </file>
-    <file name="fooooon.gif" crc="177312929" ref="index:бастау">
+    <file name="fooooon.gif" crc="177312929" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -73,29 +71,7 @@
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
     </file>
-    <file name="ig.png" crc="356761080" seo="true" ref="index:предметы:бастау">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="бастау" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
-      <caption webpage="предметы" alt=""/>
-    </file>
-    <file name="tt.png" crc="225486970" seo="true" ref="index:предметы:бастау">
+    <file name="ig.png" crc="356761080" seo="true" ref="index:бастау">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -117,7 +93,7 @@
       <caption webpage="предметы" alt=""/>
       <caption webpage="предметы" alt=""/>
     </file>
-    <file name="yt.png" crc="4259320456" seo="true" ref="index:предметы:бастау">
+    <file name="tt.png" crc="225486970" seo="true" ref="index:бастау">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -139,7 +115,7 @@
       <caption webpage="предметы" alt=""/>
       <caption webpage="предметы" alt=""/>
     </file>
-    <file name="vk.png" crc="3889689648" seo="true" ref="index:предметы:бастау">
+    <file name="yt.png" crc="4259320456" seo="true" ref="index:бастау">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -161,8 +137,30 @@
       <caption webpage="предметы" alt=""/>
       <caption webpage="предметы" alt=""/>
     </file>
-    <file name="уау1-page-fr.png" crc="4034347517" ref="index:предметы:бастау"/>
-    <file name="глаз1.png" crc="4123335418" ref="index:бастау">
+    <file name="vk.png" crc="3889689648" seo="true" ref="index:бастау">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="бастау" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+      <caption webpage="предметы" alt=""/>
+    </file>
+    <file name="уау1-page-fr.png" crc="4034347517" ref="index:бастау"/>
+    <file name="глаз1.png" crc="4123335418" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -174,7 +172,7 @@
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
     </file>
-    <file name="глаз0.png" crc="512859787" ref="index:бастау">
+    <file name="глаз0.png" crc="512859787" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -186,7 +184,7 @@
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
     </file>
-    <file name="каз.png" crc="3897320014" ref="index:бастау">
+    <file name="каз.png" crc="3897320014" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -198,7 +196,7 @@
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
     </file>
-    <file name="рус.png" crc="310241356" ref="index:бастау">
+    <file name="рус.png" crc="310241356" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -211,7 +209,6 @@
       <caption webpage="бастау" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4044447519" seo="true" mt="1607005249607" redirect="true"/>
-  <file name="предметы.html" crc="138153254" seo="true" mt="1607004451901" redirect="true"/>
-  <file name="бастау.html" crc="3881755221" seo="true" mt="1607005625290" redirect="true"/>
+  <file name="index.html" crc="4138471148" seo="true" mt="1607008500894" redirect="true"/>
+  <file name="бастау.html" crc="510996778" seo="true" mt="1607008500894" redirect="true"/>
 </manifest>
