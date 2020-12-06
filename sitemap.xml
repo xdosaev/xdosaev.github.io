@@ -17,6 +17,9 @@
     <image:image>
       <image:loc>http://xanata.tk/images/vk.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://xanata.tk/images/%D0%BF%D0%BF%D0%BF.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://xanata.tk/bastau.html</loc>
@@ -34,6 +37,9 @@
     </image:image>
     <image:image>
       <image:loc>http://xanata.tk/images/vk.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://xanata.tk/images/%D0%BF%D0%BF%D0%BF.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -142,6 +148,9 @@
     </image:image>
     <image:image>
       <image:loc>http://xanata.tk/images/photo_2020-11-24_14-19-52-crop-u148155.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://xanata.tk/images/%D0%BF%D0%BF%D0%BF.png</image:loc>
     </image:image>
   </url>
 </urlset>

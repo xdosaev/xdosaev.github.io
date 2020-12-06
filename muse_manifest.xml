@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1607229648296">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanata.tk" resolutions="1x" timestamp="1607231800835">
   <folder name="css">
     <file name="site_global.css" crc="323056290"/>
-    <file name="master_______-a.css" crc="4178900870" ref="index:bastau:shop"/>
-    <file name="nomq_preview_master_______-a.css" crc="37353482" ref="index:bastau:shop"/>
-    <file name="index.css" crc="433942693" ref="index"/>
-    <file name="nomq_index.css" crc="196237580" ref="index"/>
+    <file name="master_______-a.css" crc="3803128447" ref="index:bastau:shop"/>
+    <file name="nomq_preview_master_______-a.css" crc="443337413" ref="index:bastau:shop"/>
+    <file name="index.css" crc="181127107" ref="index"/>
+    <file name="nomq_index.css" crc="4069064829" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="bastau.css" crc="309127209" ref="bastau"/>
-    <file name="nomq_bastau.css" crc="366615525" ref="bastau"/>
+    <file name="bastau.css" crc="3797182896" ref="bastau"/>
+    <file name="nomq_bastau.css" crc="4191874808" ref="bastau"/>
     <file name="iefonts_bastau.css" crc="3824530138" ref="bastau"/>
-    <file name="shop.css" crc="3878799558" ref="shop"/>
-    <file name="nomq_shop.css" crc="3777304" ref="shop"/>
+    <file name="shop.css" crc="4212668797" ref="shop"/>
+    <file name="nomq_shop.css" crc="4126325933" ref="shop"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:bastau:shop"/>
@@ -109,26 +109,26 @@
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
-      <caption webpage="shop" alt=""/>
-      <caption webpage="shop" alt=""/>
-      <caption webpage="shop" alt=""/>
-      <caption webpage="shop" alt=""/>
-      <caption webpage="shop" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
       <caption webpage="предметы" alt=""/>
       <caption webpage="предметы" alt=""/>
       <caption webpage="предметы" alt=""/>
       <caption webpage="предметы" alt=""/>
       <caption webpage="предметы" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
     </file>
     <file name="tt.png" crc="225486970" seo="true" ref="index:bastau:shop">
       <caption webpage="index" alt=""/>
@@ -141,26 +141,26 @@
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
-      <caption webpage="shop" alt=""/>
-      <caption webpage="shop" alt=""/>
-      <caption webpage="shop" alt=""/>
-      <caption webpage="shop" alt=""/>
-      <caption webpage="shop" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
       <caption webpage="предметы" alt=""/>
       <caption webpage="предметы" alt=""/>
       <caption webpage="предметы" alt=""/>
       <caption webpage="предметы" alt=""/>
       <caption webpage="предметы" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
     </file>
     <file name="yt.png" crc="4259320456" seo="true" ref="index:bastau:shop">
       <caption webpage="index" alt=""/>
@@ -173,26 +173,26 @@
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
-      <caption webpage="shop" alt=""/>
-      <caption webpage="shop" alt=""/>
-      <caption webpage="shop" alt=""/>
-      <caption webpage="shop" alt=""/>
-      <caption webpage="shop" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
       <caption webpage="предметы" alt=""/>
       <caption webpage="предметы" alt=""/>
       <caption webpage="предметы" alt=""/>
       <caption webpage="предметы" alt=""/>
       <caption webpage="предметы" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
     </file>
     <file name="vk.png" crc="3889689648" seo="true" ref="index:bastau:shop">
       <caption webpage="index" alt=""/>
@@ -205,26 +205,26 @@
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
       <caption webpage="bastau" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
-      <caption webpage="без-имени-2" alt=""/>
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
       <caption webpage="бастау" alt=""/>
-      <caption webpage="shop" alt=""/>
-      <caption webpage="shop" alt=""/>
-      <caption webpage="shop" alt=""/>
-      <caption webpage="shop" alt=""/>
-      <caption webpage="shop" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
       <caption webpage="предметы" alt=""/>
       <caption webpage="предметы" alt=""/>
       <caption webpage="предметы" alt=""/>
       <caption webpage="предметы" alt=""/>
       <caption webpage="предметы" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
     </file>
     <file name="уау1-page-fr.png" crc="4034347517" ref="index:bastau:shop"/>
     <file name="глаз1.png" crc="4123335418" ref="index">
@@ -385,8 +385,25 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="ппп.png" crc="198334862" seo="true" ref="index:bastau:shop">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bastau" alt=""/>
+      <caption webpage="bastau" alt=""/>
+      <caption webpage="bastau" alt=""/>
+      <caption webpage="bastau" alt=""/>
+      <caption webpage="bastau" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3916121937" seo="true" mt="1607229601923" redirect="true"/>
-  <file name="bastau.html" crc="4099585403" seo="true" mt="1607229601923" redirect="true"/>
-  <file name="shop.html" crc="3944252257" seo="true" mt="1607229601923" redirect="true"/>
+  <file name="index.html" crc="4007184033" seo="true" mt="1607231740534" redirect="true"/>
+  <file name="bastau.html" crc="3776908845" seo="true" mt="1607231740534" redirect="true"/>
+  <file name="shop.html" crc="4131148467" seo="true" mt="1607231740534" redirect="true"/>
 </manifest>
