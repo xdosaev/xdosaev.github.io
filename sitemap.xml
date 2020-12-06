@@ -153,4 +153,25 @@
       <image:loc>http://xanata.tk/images/%D0%BF%D0%BF%D0%BF.png</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://xanata.tk/plan.html</loc>
+    <lastmod>2020-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://xanata.tk/images/ig.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://xanata.tk/images/tt.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://xanata.tk/images/yt.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://xanata.tk/images/vk.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://xanata.tk/images/%D0%BF%D0%BF%D0%BF.png</image:loc>
+    </image:image>
+  </url>
 </urlset>
